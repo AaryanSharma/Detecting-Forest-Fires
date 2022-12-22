@@ -26,13 +26,13 @@ C: Reduce exactly one passenger at random (Bernoulli Trial with 60% chance a per
 Any other command: Exit code
 
 class Vehicle: 
-    def \_init\_(self, name, max_speed, mileage):
-        self.name = name
-        self.max_speed = max_speed
-        self.mileage = mileage
+    def \_init\_(self, name, max_speed, mileage): <br>
+        self.name = name <br>
+        self.max_speed = max_speed <br>
+        self.mileage = mileage <br>
        
-   def seating\_capacity(self, capacity):
-   return f"The seating capacity of a {self.name} is {capacity} passengers"
+   def seating\_capacity(self, capacity): <br>
+   return f"The seating capacity of a {self.name} is {capacity} passengers" <br>
         
 Optional: Receive and ID from the user who uses "A" command and store which vehicle they are in, ID, etc. Which data structure will you use for this? That way, when a random user is removed, you can even identify exactly which user was removed rather than simply counting the number of passengers.
 Hint for this: simply have a member variable denoting the number of passengers in each vehicle and manipulate that using member functions (will it be easier to use non-member functions directly?)
