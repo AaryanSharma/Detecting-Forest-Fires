@@ -1,4 +1,3 @@
-# Detecting-Forest-Fires
 
 # Detecting-Forest-Fires
 
