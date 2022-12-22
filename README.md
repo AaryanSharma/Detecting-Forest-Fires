@@ -4,10 +4,9 @@
 <h1><b>Week 1</b></h1>
 <h2>Study Resources</h2>
 <h3> For this week you will be brushing up your <b>Python</b> basics</h3>
-For this week,<a href='https://scrimba.com/learn/python'>Course</a> is sufficient for the python part.
+For this week,the <a href='https://scrimba.com/learn/python'>scrimba course</a> is sufficient for the python part.
  <h2>Assignment for Week 1</h2>
-  <h3>Its time to implement what you have studied through the above mentioned resources.</h3><br>
-  Create a Bus Class and a Car Class which inherit the properties of the Vehicle Class given in vehicle.py given below. 
+Create a Bus Class and a Car Class which inherit the properties of the Vehicle Class given in vehicle.py given below. 
 Bus and Car should have seating_capacity of 25 and 5 people respectively. Additionally, the bus should have a standing_capacity member of 15 people and Car has a ID as member variable.
 
 
