@@ -25,7 +25,7 @@ C: Reduce exactly one passenger at random (Bernoulli Trial with 60% chance a per
 
 Any other command: Exit code
 
-class Vehicle:
+class Vehicle: 
     def _init_(self, name, max_speed, mileage):
         self.name = name
         self.max_speed = max_speed
