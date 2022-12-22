@@ -3,7 +3,7 @@
 
 <h1><b>Week 1</b></h1>
 <h2>Study Resources</h2>
-<h3> For this week you will be brushing up your <b>Exploratory Python</b> basics</h3>
+<h3> For this week you will be brushing up your <b>Python</b> basics</h3>
     <a href='https://scrimba.com/learn/python'>Course</a> is suffiecient for the python part.
  <h2>Assignment for Week 1</h2>
   <h3>Its time to implement what you have studied through the above mentioned resources.</h3><br>
